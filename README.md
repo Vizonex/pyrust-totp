@@ -2,6 +2,11 @@
 
 A Python wrapper around `totp-rs` made for fast and secure 2fa.
 
+## Installation
+```
+pip install rust-totp
+```
+
 
 ## Why Have a Rust Backend?
 - I've hunted for many C Implementations that I liked including
