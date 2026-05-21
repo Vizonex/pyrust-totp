@@ -1,4 +1,4 @@
-# PYRUST-TOTP
+# PyRust-TOTP
 
 A Python wrapper around `totp-rs` made for fast and secure 2fa.
 
