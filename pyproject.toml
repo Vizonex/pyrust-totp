@@ -20,3 +20,8 @@ url = [
 ]
 [tool.maturin]
 python-source = "python"
+
+
+[project.urls]
+    homepage = "https://github.com/Vizonex/pyrust-totp"
+    repository = "https://github.com/Vizonex/pyrust-totp.git"
