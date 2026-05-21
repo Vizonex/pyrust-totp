@@ -8,7 +8,6 @@ provides bridging between both aiohttp/yarl and rust-totp.
 """
 
 from yarl import URL
-from multidict import CIMultiDictProxy, istr
 from urllib.parse import unquote
 
 from .rust_totp import TOTP, URLError, Algorithm
